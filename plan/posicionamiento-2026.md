@@ -24,7 +24,9 @@ Estas reglas mandan sobre `references/marca.md` de la skill `corexia-social` cua
 - Ya no se usa «Quien te atiende es quien hace el trabajo».
 
 ## Mensajes clave
-Ingeniería que se traduce en negocio · un solo socio para todo lo digital · sabes lo que contratas (alcance, precio y plazos cerrados) · resultados que se miden · tecnología con sentido (IA y automatización cuando aportan valor).
+Ingeniería que se traduce en negocio · la solución se adapta al tipo de empresa (primero entendemos cómo vende y dónde se atasca, después proponemos) · sabes lo que contratas (alcance, precio y plazos cerrados) · resultados que se miden · tecnología con sentido (IA y automatización cuando aportan valor).
+
+No vendernos como «todo en uno» ni «un solo socio para todo lo digital»: no gestionamos redes sociales ni hacemos de todo para todos. Servicios que sí ofrecemos: web a medida, tiendas online, SEO y visibilidad en buscadores con IA, Google Ads y aplicaciones o automatizaciones a medida. El mensaje es elegir lo que cada empresa necesita, no venderlo todo.
 
 ## Pilares de contenido
 Problemas y errores · Precios y costes · Comparativas y decisiones · Casos y proceso · Tecnología aplicada · Mercado y datos.
