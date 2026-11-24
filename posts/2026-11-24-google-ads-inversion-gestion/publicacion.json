@@ -1,0 +1,88 @@
+{
+ "palabra_cta": "ADS",
+ "slides": [
+  {
+   "tipo": "portada",
+   "titulo": "[Dos pagos]\nen una\nsola cuota.",
+   "pie": "Así se reparte lo que pagas\nen Google Ads.",
+   "tamano": 112
+  },
+  {
+   "tipo": "texto",
+   "etiqueta": "Lo que no te cuentan",
+   "titulo": "Tu cuota de anuncios\nmezcla dos cosas",
+   "cuerpo": [
+    "Muchas ofertas de Google Ads dan un único precio mensual y no separan lo que se gasta en anuncios de lo que cobra quien los gestiona.",
+    "Así no sabes cuánto de tu dinero llega de verdad a Google."
+   ],
+   "destacado": "Pregunta siempre: ¿cuánto es anuncio y cuánto es gestión?"
+  },
+  {
+   "tipo": "comparativa",
+   "titulo": "Lo que pagas,\n[separado]",
+   "izq": {
+    "titulo": "Inversión",
+    "texto": "Lo que pagas a Google por los clics. Lo ideal: con tu tarjeta y en tu propia cuenta."
+   },
+   "der": {
+    "titulo": "Gestión",
+    "texto": "Lo que pagas a quien crea, revisa y mejora las campañas. Mejor con precio cerrado."
+   },
+   "comun": {
+    "intro": "Si te dan una sola cifra,",
+    "texto": "pide el desglose\npor escrito."
+   }
+  },
+  {
+   "tipo": "pasos",
+   "etiqueta": "Antes de anunciarte",
+   "titulo": "Antes de gastar un euro,\n[revisa esto]:",
+   "pasos": [
+    {
+     "titulo": "La cuenta, a tu nombre",
+     "texto": "Si cambias de proveedor, te quedas con el historial y lo aprendido."
+    },
+    {
+     "titulo": "Una página que convierta",
+     "texto": "Si el anuncio lleva a una web lenta o confusa, pagas clics que se van."
+    },
+    {
+     "titulo": "Medir contactos, no clics",
+     "texto": "Llamadas, formularios y WhatsApp. Un clic no es un cliente."
+    }
+   ]
+  },
+  {
+   "tipo": "texto",
+   "etiqueta": "Lo que pocos dicen",
+   "titulo": "Cuándo Google Ads\n[no te conviene]",
+   "cuerpo": [
+    "Si nadie puede atender las llamadas que lleguen.",
+    "Si lo que ganas con un cliente no cubre lo que cuesta conseguirlo.",
+    "Si buscas algo que dure: cuando dejas de pagar, los anuncios desaparecen. Para eso está el SEO."
+   ],
+   "destacado": "Si no te conviene, te lo decimos."
+  },
+  {
+   "tipo": "texto",
+   "etiqueta": "Cómo lo hacemos en Corexia",
+   "titulo": "Primero escuchamos,\nluego [proponemos]",
+   "cuerpo": [
+    "Vemos si los anuncios tienen sentido para tu negocio antes de hablar de presupuesto.",
+    "Te damos por escrito el precio cerrado de la gestión, partida a partida, y cada mes repasamos contigo qué contactos han llegado y qué ajustamos."
+   ],
+   "destacado": "Hablas con quien hace el trabajo."
+  },
+  {
+   "tipo": "cta",
+   "titulo": "Comenta [ADS]",
+   "texto": "y te enviamos la lista de 3 puntos para revisar tu cuenta o tu presupuesto de Google Ads.",
+   "secundario": "O pide tu primera consulta gratis y sin compromiso.",
+   "web": "corexia.es"
+  }
+ ],
+ "caption": "¿Sabes cuánto de lo que pagas en Google Ads llega a Google y cuánto se queda la agencia?\n\nMuchas ofertas dan una sola cifra al mes, pero en esa cuota hay dos pagos distintos:\n\n💶 Inversión: lo que pagas a Google por los clics. Lo ideal es que salga de tu tarjeta y de tu propia cuenta.\n🛠️ Gestión: lo que pagas a quien crea, revisa y mejora las campañas. Mejor si va con precio cerrado.\n\nAntes de gastar un euro, revisa esto:\n1️⃣ La cuenta de Google Ads, a tu nombre. Si cambias de proveedor, te quedas con el historial.\n2️⃣ Una página que convierta. Si el anuncio lleva a una web lenta o confusa, pagas clics que se van.\n3️⃣ Medir contactos, no clics: llamadas, formularios y WhatsApp.\n\nY lo que pocos dicen: a veces no conviene. Si nadie puede atender las llamadas, si lo que ganas por cliente no cubre lo que cuesta conseguirlo, o si buscas algo que dure (cuando dejas de pagar, los anuncios desaparecen; para eso está el SEO).\n\nEn Corexia primero vemos si los anuncios tienen sentido para tu negocio. Si los tienen, te damos el precio cerrado de la gestión por escrito y cada mes repasamos contigo qué contactos han llegado. Hablas con Mohammed, desde Almoradí, o con Daniel: los que hacen el trabajo.\n\n💬 Comenta ADS y te enviamos la lista de 3 puntos para revisar tu cuenta o tu presupuesto de Google Ads. O pide tu primera consulta gratis en corexia.es.\n\n#GoogleAds #SEM #VegaBaja #Orihuela #Torrevieja #Almoradi #Pymes #MarketingDigital",
+ "gbp": "¿Vas a anunciarte en Google Ads o ya pagas una cuota? Antes de seguir, conviene separar dos conceptos que muchas ofertas mezclan en una sola cifra:\n\n- Inversión: lo que se paga a Google por los clics. Lo recomendable es que se cargue en tu propia cuenta de Google Ads, a tu nombre.\n- Gestión: lo que se paga a quien crea, revisa y mejora las campañas. Lo mejor es que tenga un precio cerrado y por escrito.\n\nAntes de invertir, revisa tres cosas: que la cuenta sea tuya, que la página a la que llevan los anuncios esté preparada para convertir y que se midan contactos reales (llamadas, formularios, WhatsApp), no solo clics.\n\nGoogle Ads no siempre conviene: si no puedes atender las llamadas, si el beneficio por cliente no cubre lo que cuesta conseguirlo o si buscas resultados duraderos, que se trabajan con SEO.\n\nEn Corexia primero valoramos si los anuncios tienen sentido para tu negocio. Si lo tienen, damos por escrito el precio cerrado de la gestión y repasamos cada mes los contactos conseguidos. Trabajamos desde la Vega Baja y la Ribera Alta para negocios de toda España.\n\nPrimera consulta gratis en corexia.es",
+ "linkedin_titulo": "Google Ads: inversión y gestión, por separado",
+ "linkedin_texto": "En Google Ads hay una confusión que cuesta dinero: pagar «una cuota» sin saber qué parte llega a Google y qué parte es gestión.\n\nRevisando cómo se ofrecen hoy las campañas de pago a pequeños negocios, lo habitual es una cifra mensual única, a veces con promesas de resultados inmediatos. Lo que casi nunca se explica es el desglose, de quién es la cuenta ni cómo se va a medir.\n\nLo que recomendamos exigir a cualquier proveedor, también a nosotros:\n\n1. Inversión y gestión, separadas. La inversión la cobra Google; la gestión, quien trabaja las campañas, mejor con precio cerrado.\n2. La cuenta, a nombre del negocio. El historial de campañas es un activo; si cambias de proveedor, debe quedarse contigo.\n3. Antes de los anuncios, la página de destino. Mandar tráfico de pago a una web que no convierte es pagar dos veces.\n4. Medir contactos, no clics: llamadas, formularios y WhatsApp.\n\nY un punto que se omite a menudo: Google Ads no siempre conviene. Si no hay capacidad para atender la demanda, si el margen por cliente no cubre el coste de captarlo o si se busca algo duradero, el SEO o una mejora de la web pueden ser mejor primer paso.\n\nEn Corexia somos dos ingenieros, Daniel y Mohammed, entre la Vega Baja y la Ribera Alta. Primero escuchamos, luego proponemos, con precio cerrado y seguimiento mensual.\n\n¿Sabes hoy qué parte de tu presupuesto de anuncios llega a Google?"
+}
