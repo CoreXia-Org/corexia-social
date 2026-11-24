@@ -33,7 +33,7 @@ Problemas y errores · Precios y costes · Comparativas y decisiones · Casos y 
 Palabra para comentar a cambio de algo útil (checklist, preguntas, explicación) o Diagnóstico Express gratuito en corexia.es. Nada de «compra ya». No publicar precios propios de Corexia salvo que el plan lo indique.
 
 ## Redes
-- Instagram y Google Business: programados en Metricool (plan Free, máximo 20 al mes; comprobar antes de programar).
+- Instagram y Google Business: se dejan como borrador en Metricool para el día siguiente a las 12:00 y solo se publican cuando se aprueban (plan Free, máximo 20 al mes; comprobar antes).
 - LinkedIn: solo página de empresa. Entregar el PDF del carrusel y un `linkedin.md` con título del documento y texto listo para copiar, subidos a la carpeta de la publicación. Sin textos para perfiles personales salvo que se pida.
 - Facebook: fuera mientras no esté conectado y no quepa en el límite del plan Free.
-- Historial: añadir el pilar a cada línea: `AAAA-MM-DD | pilar | formato | tema | palabra CTA | redes`.
+- Historial: añadir el pilar a cada línea: `AAAA-MM-DD | pilar | formato | tema | palabra CTA | redes | variante | zona | pendiente de aprobación`.
