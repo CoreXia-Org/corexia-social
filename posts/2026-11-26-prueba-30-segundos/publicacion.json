@@ -1,0 +1,73 @@
+{
+ "palabra_cta": "PRUEBA",
+ "slides": [
+  {
+   "tipo": "portada",
+   "titulo": "Haz esta prueba hoy.\nTarda [30 segundos].",
+   "pie": "Y te va a sorprender",
+   "tamano": 96
+  },
+  {
+   "tipo": "pasos",
+   "titulo": "La prueba",
+   "pasos": [
+    {
+     "titulo": "Abre ChatGPT o Google",
+     "texto": "Lo que usaría tu cliente."
+    },
+    {
+     "titulo": "Escribe lo que vendes y dónde",
+     "texto": "Por ejemplo: «empresa de climatización en Alicante»."
+    },
+    {
+     "titulo": "Mira la respuesta",
+     "texto": "¿Aparece tu empresa?"
+    }
+   ]
+  },
+  {
+   "tipo": "texto",
+   "etiqueta": "Si no apareces",
+   "titulo": "Ese cliente ya está llamando a otra empresa.",
+   "cuerpo": [
+    "Y no lo vas a saber nunca."
+   ]
+  },
+  {
+   "tipo": "comparativa",
+   "titulo": "Esto tiene nombre",
+   "izq": {
+    "titulo": "SEO",
+    "texto": "Que Google te muestre cuando te buscan."
+   },
+   "der": {
+    "titulo": "GEO",
+    "texto": "Que la IA te recomiende cuando le preguntan."
+   },
+   "comun": {
+    "intro": "Los dos dependen",
+    "texto": "de lo bien que tu web explica lo que haces."
+   }
+  },
+  {
+   "tipo": "texto",
+   "etiqueta": "Por qué pasa",
+   "titulo": "Casi siempre empieza en la web.",
+   "cuerpo": [
+    "No explica bien qué haces, dónde ni para quién. O tu ficha de Google está incompleta."
+   ],
+   "destacado": "**Tiene arreglo.** Y no hace falta empezar de cero."
+  },
+  {
+   "tipo": "cta",
+   "titulo": "Comenta [PRUEBA]",
+   "texto": "La hacemos por ti y te contamos qué cambiar.",
+   "secundario": "Sin compromiso.",
+   "web": "corexia.es"
+  }
+ ],
+ "caption": "Haz esta prueba hoy. Tarda 30 segundos.\n\n1. Abre ChatGPT o Google.\n2. Escribe lo que vendes y dónde. Por ejemplo: «empresa de climatización en Alicante».\n3. Mira la respuesta. ¿Aparece tu empresa?\n\nSi no apareces, ese cliente ya está llamando a otra. Y no lo vas a saber nunca.\n\nCasi siempre empieza en la web: no explica bien qué haces, dónde ni para quién. Tiene arreglo.\n\nComenta PRUEBA y la hacemos por ti.\n\n#seo #inteligenciaartificial #chatgpt #diseñoweb #pymes #alicante #valencia",
+ "gbp": "Haz esta prueba hoy: abre ChatGPT o Google, escribe lo que vendes y dónde (por ejemplo, «empresa de climatización en Alicante») y mira si aparece tu empresa. Si no sales, ese cliente ya está llamando a otra. Casi siempre empieza en la web y tiene arreglo. Si quieres, hacemos la prueba por ti y te contamos qué cambiar. Primera consulta gratis en corexia.es",
+ "linkedin_titulo": "La prueba de 30 segundos para tu empresa",
+ "linkedin_texto": "Una prueba de 30 segundos para cualquier gerente:\n\nAbre ChatGPT o Google y escribe lo que vendéis y dónde. ¿Aparece vuestra empresa?\n\nSi no, ese cliente ya está hablando con otra. Casi siempre empieza en la web, y tiene arreglo.\n\n¿La habéis hecho alguna vez?"
+}
