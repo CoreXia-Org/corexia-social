@@ -11,6 +11,7 @@ Reglas de la tarea de publicaciones:
 
 - Si hay una entrada con la fecha de hoy, publica **esa** entrada: tema, pilar, formato, mensajes y palabra del CTA.
 - Si la entrada dice `NO PUBLICAR`, no publica y lo indica en el resumen.
+- Si la entrada dice `YA PREPARADA`, usa los archivos de esa carpeta de `posts/` tal cual (imágenes, textos y PDF): no regenera el contenido, solo lo programa y actualiza el historial.
 - Si no hay plan aprobado o no hay entrada para hoy, elige tema con la rotación de la skill, respetando los pilares y el historial, y lo avisa en el resumen.
 
 ## Formato de cada entrada
