@@ -1,16 +1,17 @@
 # Plan editorial mensual
 
-La tarea programada se ejecuta **el día anterior a cada publicación** (lunes y miércoles) y prepara la publicación de mañana (martes y jueves). Lee el fichero del mes de la fecha de publicación, `plan/AAAA-MM.md`.
+El contenido se aprueba **una vez al mes**, con el plan completo:
 
-- Si hay una entrada con la fecha de mañana, prepara **esa** entrada: tema, pilar, formato, mensajes y palabra del CTA.
-- Si la entrada dice `NO PUBLICAR`, no prepara nada y lo indica en el resumen.
-- Si no hay entrada para mañana, elige tema con la rotación de la skill, respetando los pilares y el historial.
+1. Hacia el día 18 de cada mes, una tarea programada prepara el plan del mes siguiente en `plan/AAAA-MM.md`, lo sube en una rama y abre una pull request. Avisa con un resumen que empieza por «PLAN DE [MES] PENDIENTE DE APROBACIÓN».
+2. Se revisa el plan en la pull request. Para pedir cambios, se comentan en la PR o se piden a Claude en la sesión de esa ejecución.
+3. **Aprobar = mergear la PR en `main`.** Desde ese momento el plan queda aceptado.
+4. La tarea de publicaciones (martes y jueves) lee `plan/AAAA-MM.md` de `main` y publica la entrada del día sin pedir más aprobaciones.
 
-## Aprobación (24 horas antes)
-1. La tarea deja la publicación en Metricool como **borrador** para mañana a las 12:00 y avisa con un resumen que empieza por «PENDIENTE DE APROBACIÓN».
-2. Se revisa la vista previa y el texto con los enlaces del resumen.
-3. Para aprobar: abrir el borrador en Metricool y programarlo (quitar la opción de borrador). Si no se aprueba, no se publica nada.
-4. Para pedir cambios: responder en la sesión de la tarea con lo que hay que corregir.
+Reglas de la tarea de publicaciones:
+
+- Si hay una entrada con la fecha de hoy, publica **esa** entrada: tema, pilar, formato, mensajes y palabra del CTA.
+- Si la entrada dice `NO PUBLICAR`, no publica y lo indica en el resumen.
+- Si no hay plan aprobado o no hay entrada para hoy, elige tema con la rotación de la skill, respetando los pilares y el historial, y lo avisa en el resumen.
 
 ## Formato de cada entrada
 
